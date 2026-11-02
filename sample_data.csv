@@ -1,0 +1,21 @@
+student_id,specialisation,attendance,academic_score,placement_status,salary_lpa
+S001,Finance,92,88,Placed,12.5
+S002,Marketing,85,79,Placed,8.2
+S003,Human Resources,68,56,Not Placed,
+S004,Business Analytics,96,91,Placed,15.0
+S005,Finance,74,67,Placed,6.8
+S006,Marketing,61,58,Not Placed,
+S007,Business Analytics,89,83,Placed,11.2
+S008,Human Resources,78,72,Placed,7.5
+S009,Finance,55,48,Not Placed,
+S010,Marketing,93,86,Placed,10.5
+S011,Business Analytics,70,64,Not Placed,
+S012,Human Resources,88,81,Placed,9.4
+S013,Finance,81,75,Placed,8.8
+S014,Marketing,72,69,Not Placed,
+S015,Business Analytics,98,95,Placed,18.0
+S016,Human Resources,63,52,Not Placed,
+S017,Finance,90,84,Placed,11.0
+S018,Marketing,87,77,Placed,8.9
+S019,Business Analytics,76,73,Placed,9.7
+S020,Human Resources,58,45,Not Placed,
